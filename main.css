@@ -21,11 +21,11 @@
 /*文章主体*/
 .article{
     padding: 0px;
-    position: absolute;
+    /*position: absolute;*/
 }
 /*文章图片*/
 .article img{
-    position: relative;
+    /*position: relative;*/
     left: 0;
     width: 100%;
 }

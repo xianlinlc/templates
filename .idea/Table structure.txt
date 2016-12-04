@@ -1,0 +1,6 @@
+表结构的规划
+tb:article
+id int not null primary key auto_increment
+article_pic char(50) not null
+article_title char(50) not null  index
+article_desc char(300) not null
